@@ -1,0 +1,1 @@
+Predicts gamer skill rating (MMR) using Support Vector Regression (SVR) based on match stats like kills, assists, and deaths. Built with scikit-learn and visualized using Matplotlib.
